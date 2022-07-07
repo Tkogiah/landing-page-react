@@ -1,6 +1,4 @@
-import './App.css';
-
-function Email() {
+export default function Email() {
     return (
         <div className='email'>
             <div className='top'>
@@ -15,5 +13,3 @@ function Email() {
         </div>
     )
 }
-
-export default Email

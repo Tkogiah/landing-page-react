@@ -1,6 +1,4 @@
-import './App.css';
-
-function Hero() {
+export default function Hero() {
     return (
         <div className='hero'>
             <nav className='nav'>
@@ -14,5 +12,3 @@ function Hero() {
         </div>
     )
 }
-
-export default Hero
